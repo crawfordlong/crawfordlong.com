@@ -14,8 +14,12 @@ body {
   top: 1rem;
   left: 1rem;
   z-index: 2;
-  color: #fff;
-  text-shadow: 2px 2px;
+  font-family: "Passion One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 32pt; 
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
 }
 
 .gd-modal-loaded .logo {
@@ -24,5 +28,5 @@ body {
 
 .logo:hover {
   cursor: pointer;
-  color: #ffe0c9;
+  color: #FF5733;
 }
